@@ -3,7 +3,7 @@ NeoCoMM is a neurophysiologically inspired microscale model of the neocortical c
 
 # Documentation
 
-Documentation is available at: https://github.com/MariamAlHarrach/NeoCoMM/blob/main/NeoCoMM_Manual_V0.docx
+Documentation is available at: https://github.com/MariamAlHarrach/NeoCoMM/blob/main/NeoCoMM_Manual_V0.0.docx
 
 # Installation
 
